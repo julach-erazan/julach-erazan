@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-I'm **Julach Earzan**, an undergraduate student at Eastern University, Sri Lanka, pursuing a degree in Computer Science. I have a passion for developing responsive web applications and exploring various programming paradigms.
+I'm **Julach Earzan**, an graduated at Eastern University, Sri Lanka, pursuing a degree in Computer Science. I have a passion for developing responsive web applications and exploring various programming paradigms.
 
 ### 🔭 Projects and Repositories
 
 Here are some of the notable projects I've worked on:
 
-- **[My Portfolio](https://github.com/julach-erazan/my_Portfolio)**: A responsive web page built using HTML, CSS, and JavaScript to showcase my skills and projects.
+- **[My Portfolio](https://github.com/julach-erazan/portfolio-2)**: A responsive web page built using HTML, CSS, and JavaScript to showcase my skills and projects.
 
 - **[FoodShop Website](https://github.com/julach-erazan/FoodShop_website)**: An e-commerce platform developed with React.js and MySQL, facilitating seamless online food ordering experiences.
 
@@ -38,16 +38,11 @@ I'm open to collaborating on projects that involve:
 
 Feel free to connect with me via:
 
-- **Email**: [julach@example.com](mailto:julach@example.com)
+- **Email**: [julach99214@gmail.com](mailto:julach99214@gmail.com)
 
 - **LinkedIn**: [linkedin.com/in/julach-earzan](https://www.linkedin.com/in/julach-earzan)
 
 ### ⚡ Fun Fact
 
 When I'm not coding, I enjoy exploring the latest tech trends and playing strategic video games.
-
----
-
-*Note: This README.md is a dynamic representation of my current engagements and interests. For the most up-to-date information, please visit my [GitHub profile](https://github.com/julach-erazan).*
-
 
